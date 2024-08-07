@@ -1,0 +1,3331 @@
+/* Laptop L */
+@media screen and (min-width: 1025px) and (max-width:1440px) {
+
+  #hamburger-navbar{
+    display: none !important;
+  }
+  
+  #hamburger-menu{
+    display: none !important;
+  }
+
+  #hamburger-menu-icon,
+  #close-btn-icon{
+  display: none;
+}
+
+#hamburger-navbar{
+  display: none;
+}
+
+  .contact-us-bar {
+    width: 1490px;
+  }
+
+  #home-img {
+    margin-right: 100px;
+  }
+
+  #coding-range1 {
+    margin-right: 30px;
+  }
+
+  #photoshop-range2 {
+    margin-right: 30px;
+  }
+
+  #photoshop-cover {
+    /* border: 2px solid red; */
+    margin-left: 210px !important;
+
+  }
+
+  #services-top {
+    /* border: 2px solid red; */
+    width: 1490px;
+  }
+
+  #services-bottom {
+    /* border: 2px solid red; */
+    margin-left: 190px !important;
+    width: 1100px;
+  }
+
+  #big-card {
+    margin-left: 100px !important;
+    width: 1300px !important;
+  }
+
+  #free-quote-section {
+    /* border: 2px solid red; */
+    width: 1490px;
+  }
+
+  #projects-container {
+    /* border: 2px solid red; */
+    width: 1445px;
+  }
+
+  #contact-form {
+    /* border: 2px solid red; */
+    width: 1300px !important;
+    margin-left: 90px !important;
+  }
+
+  #copyright-section {
+    width: 1495px;
+  }
+}
+
+/* Laptop */
+@media screen and (min-width: 768px) and (max-width:1024px) {
+  #contact-us-bar-left-section {
+    /* border: 2px solid blue; */
+    width: 500px !important;
+  }
+
+  #email1 {
+    /* border: 1px solid red; */
+    font-size: 25px;
+    width: 350px !important;
+  }
+
+  #contact-number {
+    /* border: 1px solid red; */
+    margin-right: -100px !important;
+    margin-top: 27px;
+    font-size: 25px;
+    width: 200px !important;
+  }
+
+  .contact-us-bar {
+    width: 1490px;
+  }
+
+  #contact-us-bar-right-section {
+    /* border: 2px solid red; */
+    margin-top: 10px;
+  }
+
+  #hamburger-navbar{
+    display: none !important;
+  }
+  
+  #hamburger-menu{
+    display: none !important;
+  }
+
+  #hamburger-menu-icon,
+#close-btn-icon{
+  display: none;
+}
+
+#hamburger-navbar{
+  display: none;
+}
+
+  .fa {
+    font-size: 25px !important;
+    padding: 5px;
+  }
+
+  #logo-container img {
+    width: 200px;
+  }
+
+  #navbar li {
+    font-size: 25px !important;
+  }
+
+  #free-quote {
+    padding: 18px 30px !important;
+  }
+
+  #home-bg-img1{
+    /* border: 2px solid red; */
+    position: absolute !important;
+    left: 0 !important;
+    z-index: -1 !important;
+    height: 900px !important;
+  }
+
+  #home-bg-img2{
+    z-index: -2 !important;
+    left: 400px !important;
+  }
+
+  #digital-media-agency {
+    font-size: 25px !important;
+  }
+
+  #we-boost {
+    font-size: 75px !important;
+  }
+
+  #this-template {
+    font-size: 25px !important;
+    margin-top: 30px !important;
+    margin-bottom: 20px !important;
+  }
+
+  #free-quote2 {
+    font-size: 33px !important;
+    padding: 20px 30px !important;
+    border-radius: 40px !important;
+  }
+
+  #home-img {
+    margin-left: -70px !important;
+    width: 800px !important;
+  }
+
+  #home-bg-img2 {
+    /* border: 2px solid red; */
+    width: 1300px;
+    margin-left: -400px !important;
+  }
+
+  #about-right-section {
+    /* border: 2px solid red; */
+    padding-top: 0 !important;
+    padding-right: 60px !important;
+    width: 650px;
+  }
+
+  #about-pic {
+    /* border: 2px solid red !important; */
+  }
+
+  #about-us {
+    font-size: 20px !important;
+  }
+
+  #who-is-digimedia {
+    font-size: 60px !important;
+  }
+
+  #we-hope-this {
+    font-size: 25px !important;
+    margin-top: 30px !important;
+    margin-bottom: 20px !important;
+    /* border: 2px solid red; */
+    width: 700px;
+  }
+
+  #range-container {
+    margin-top: 100px !important;
+  }
+
+  #coding-range1 {
+    margin-right: 10px !important;
+    transform: scale(1.3);
+    margin-right: 30px !important;
+    border-width: 5px !important;
+  }
+
+  #photoshop-range2 {
+    margin-right: 0 !important;
+    transform: scale(1.3);
+    border-width: 5px !important;
+
+  }
+
+  #animation-range3 {
+    transform: scale(1.3);
+    margin-left: 30px !important;
+    border-width: 5px !important;
+
+  }
+
+  #coding-cover {
+    /* border: 2px solid red !important; */
+    margin-top: -30px !important;
+    margin-left: 10px !important;
+    width: 80px !important;
+  }
+
+  #photoshop-cover {
+    /* border: 2px solid red; */
+    margin-top: -20px !important;
+    margin-left: 210px !important;
+    width: 110px !important;
+  }
+
+  #animation-cover {
+    /* border: 2px solid red; */
+    width: 90px !important;
+    margin-left: -100px !important;
+  }
+
+
+
+  /* Services Section */
+  #services {
+    margin-top: 100px !important;
+  }
+
+  #our-services {
+    font-size: 20px !important;
+    margin-bottom: 20px !important;
+  }
+
+  #what-our-agency {
+    font-size: 50px !important;
+  }
+
+  #services-left-img {
+    width: 1100px !important;
+  }
+
+  #services-bottom {
+    /* border: 2px solid red !important; */
+    width: 1200px !important;
+  }
+
+  .cards {
+    transform: scale(1.4) !important;
+    margin-right: 80px !important;
+  }
+
+
+
+  #services-top {
+    /* border: 2px solid red; */
+    width: 1490px;
+  }
+
+  #services-bottom {
+    /* border: 2px solid red; */
+    margin-left: 190px !important;
+    width: 1100px;
+  }
+
+  #big-card {
+    margin-left: 100px !important;
+    width: 1300px !important;
+    margin-bottom: 200px !important;
+  }
+
+  #seo-analysis-and-daily-reports {
+    font-size: 30px !important;
+  }
+
+  #lorem-ipsum {
+    font-size: 25px !important;
+  }
+
+  #seo-analysis-list li {
+    font-size: 25px !important;
+    margin-bottom: 15px !important;
+  }
+
+  #lorem-ipsum2 {
+    font-size: 25px !important;
+    margin-bottom: 100px !important;
+  }
+
+  #seo-analysis-img {
+    margin-top: 280px !important;
+    margin-right: 70px !important;
+    width: 450px !important;
+  }
+
+  #free-quote-section {
+    /* border: 2px solid red !important; */
+    width: 1490px;
+    padding: 160px 0 !important;
+    margin-bottom: 50px !important;
+  }
+
+  #our-portfolio {
+    font-size: 20px !important;
+  }
+
+  #see-our-recent {
+    font-size: 45px !important;
+  }
+
+  #get-your-free-quote {
+    font-size: 20px !important;
+    margin-bottom: 10px !important;
+  }
+
+  #grow-with-us {
+    font-size: 55px !important;
+  }
+
+  #web-url,
+  #email-input {
+    font-size: 25px !important;
+  }
+
+  #quote-bar {
+    padding: 30px !important;
+  }
+
+  #get-quote-btn {
+    font-size: 25px !important;
+  }
+
+  #projects-container {
+    /* border: 2px solid red; */
+    width: 1445px;
+  }
+
+  #news-section {
+    /* border: 2px solid red !important; */
+    width: 1485px !important;
+  }
+
+  #recent-news {
+    font-size: 20px !important;
+  }
+
+  #check-our {
+    font-size: 45px !important;
+  }
+
+  #news-section-left {
+    /* border: 2px solid red !important; */
+    width: 700px !important;
+    height: 1000px !important;
+    margin-left: 45px !important;
+  }
+
+  #bg-img {
+    width: 100% !important;
+  }
+
+  #news-section-left-bottom {
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+  }
+
+  #blog-seo {
+    font-size: 20px !important;
+  }
+
+  #blog-date {
+    font-size: 24px !important;
+    /* margin-left: 130px !important; */
+    position: absolute;
+    top: 25px;
+    right: 100px !important;
+  }
+
+  #blog-lorem1 {
+    font-size: 30px !important;
+  }
+
+  #blog-lorem2 {
+    font-size: 20px !important;
+  }
+
+  #author-img {
+    /* width: 180px !important; */
+    transform: scale(1.4) !important;
+  }
+
+  #author-name {
+    font-size: 25px !important;
+    /* border: 2px solid red; */
+    width: 900px !important;
+    margin-left: 20px;
+  }
+
+  #discover-more {
+    font-size: 26px !important;
+    padding: 20px 20px !important;
+    margin-left: -20px !important;
+    width: 600px !important;
+  }
+
+
+  .news-section-right-dabba {
+    margin-left: 50px !important;
+  }
+
+  .news-section-right-img {
+    width: 400px !important;
+  }
+
+  .right-news-seo {
+    width: 90px;
+    padding: 10px 11px;
+    border-radius: 40px;
+    background-color: #726ae3;
+    color: white;
+    font-size: 19px !important;
+    display: inline;
+  }
+
+  .right-date {
+    margin-left: 40px !important;
+    font-size: 19px !important;
+  }
+
+  .right-lorem1 {
+    font-size: 28px !important;
+  }
+
+  .right-lorem2 {
+    font-size: 22px !important;
+  }
+
+  #contact-us-section {
+    margin-top: 150px !important;
+    width: 1480px !important;
+    /* border: 2px solid red !important; */
+  }
+
+  #contact-us {
+    font-size: 20px !important;
+  }
+
+  #get-in-touch {
+    font-size: 45px !important;
+  }
+
+  #contact-form {
+    /* border: 2px solid red !important; */
+    width: 1300px !important;
+    margin-left: 90px !important;
+  }
+
+  #map {
+    height: 100% !important;
+    font-size: 230px !important;
+  }
+
+  #contact-details-cards {
+    margin-left: -38px !important;
+  }
+
+  #contact-numb,
+  #contact-email,
+  #location {
+    font-size: 20px !important;
+  }
+
+  #input-section {
+    margin-left: 35px !important;
+  }
+
+  #name,
+  #email,
+  #subject {
+    padding: 15px 20px !important;
+    font-size: 20px !important;
+  }
+
+  textarea {
+    height: 210px !important;
+    font-size: 20px !important;
+    padding: 20px !important;
+  }
+
+  #send-message-now {
+    font-size: 22px !important;
+    padding: 18px 0 !important;
+  }
+
+  #copyright-section {
+    width: 1500px !important;
+  }
+
+  #copyright-section p {
+    font-size: 25px !important;
+  }
+}
+
+/* Tablet */
+@media screen and (min-width: 426px) and (max-width:768px) {
+  #email1{
+    /* border: 2px solid red !important; */
+    width: 500px !important;
+    font-size: 30px !important;
+  }
+
+  #contact-number{
+    /* border: 2px solid red; */
+    left: 650px !important;
+    font-size: 30px !important;
+    width: 300px !important;
+  }
+
+  #contact-us-bar-right-section{
+    top: 40px !important;
+  }
+
+  #contact-us-bar-right-section button{
+    /* border: 2px solid red !important; */
+    transform: scale(1.1);
+  }
+
+  #hamburger-navbar{
+    display: none !important;
+  }
+  
+  #hamburger-menu{
+    display: none !important;
+  }
+
+  #logo{
+    width: 300px !important;
+  }
+
+  #free-quote{
+    display: none !important;
+  }
+
+  #navbar li{
+    font-size: 32px !important;
+    margin-top: 10px;
+  }
+
+  #home{
+    flex-direction: column;
+  }
+
+  #home-left-section{
+    /* border: 2px solid red; */
+    width: 1400px !important;
+    text-align: center;
+    padding-top: 150px !important;
+  }
+
+  #digital-media-agency{
+    font-size: 35px !important;
+  }
+
+  #we-boost{
+    font-size: 100px !important;
+  }
+
+  #this-template{
+    /* border: 1px solid red; */
+    width: 1200px !important;
+    margin-top: 40px !important;
+    margin-left: 80px;
+    font-size: 30px !important;
+  }
+
+  #free-quote2{
+    font-size: 42px !important;
+    padding: 25px 50px !important;
+    margin-top: 30px !important;
+    border-width: 3px !important;
+    border-radius: 80px !important;
+  }
+
+  #home-img{
+    width: 1150px !important;
+    margin-left: 160px !important;
+  }
+
+  #home-bg-img1{
+    height: 1200px !important;
+  }
+
+  #home-bg-img2{
+    display: none !important;
+  }
+
+  #about{
+    flex-direction: column-reverse;
+  }
+
+  #about-right-section{
+    /* border: 2px solid red !important; */
+    width: 1350px !important;
+    padding-left: 80px !important;
+  }
+
+  #about-us{
+    font-size: 30px !important;
+  }
+
+  #who-is-digimedia{
+    font-size: 75px !important;
+    margin-top: 20px !important;
+    margin-bottom: 30px !important;
+  }
+
+  #who-is-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+    margin-bottom: 70px !important;
+  }
+
+  #we-hope-this{
+    /* border: 2px solid red; */
+    width: 1380px !important;
+    font-size: 32px !important;
+    text-align: justify;
+  }
+
+  #range-container{
+    position: relative;
+    /* border: 2px solid red; */
+    width: 1000px !important;
+    margin-left: 170px !important;
+    margin-top: 160px !important;
+  }
+
+  #coding-range1,
+  #photoshop-range2,
+  #animation-range3{
+    transform: scale(1.8) !important;
+  }
+
+  #coding-cover{
+    /* border: 1px solid red; */
+    position: absolute !important;
+    left: -40px !important;
+    top: -30px !important;
+    width: 120px !important;
+    transform: rotate(-30deg) !important;
+  }
+
+  #photoshop-cover{
+    /* border: 2px solid red !important; */
+    width: 220px !important;
+    height: 100px !important;
+    transform: rotate(-40deg) !important;
+    left: 80px;
+    top: -80px;
+  }
+
+  #about-left-section{
+    margin-top: 250px !important;
+  }
+
+  #about-pic{
+    width: 1150px !important;
+    margin-left: 120px !important;
+  }
+
+  #services{
+    /* border: 2px solid red !important; */
+  }
+
+  #services-top{
+    /* border: 2px solid red; */
+    padding-left: 100px !important;
+    width: 1350px !important;
+  }
+
+  #services-top h6{
+    font-size: 28px !important;
+  }
+
+  #what-our-agency{
+    font-size: 75px !important;
+  }
+
+  #what-our-agency-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+  }
+
+  .cards{
+    transform: scale(1.4) !important;
+  }
+
+  #seo-analysis{
+    flex-direction: column !important;
+  }
+
+  #seo-analysis-left{
+    /* border: 2px solid red; */
+    width: 1050px !important;
+    text-align: center;
+  }
+
+  #seo-analysis-and-daily-reports{
+    font-size: 45px !important;
+  }
+
+  #lorem-ipsum{
+    font-size: 30px !important;
+  }
+
+  #seo-analysis-list li{
+    font-size: 30px !important;
+  }
+
+  #lorem-ipsum2{
+    font-size: 30px !important;
+  }
+
+  #seo-analysis-right{
+    /* border: 2px solid red !important; */
+  }
+
+  #seo-analysis-img{
+    position: relative;
+    width: 800px !important;
+    margin-top: 10px !important;
+    margin-bottom: 100px !important;
+    margin-left: 150px !important;
+  }
+
+  #free-quote-section{
+    width: 1500px !important;
+  }
+
+  #get-your-free-quote{
+    font-size: 30px !important;
+  }
+
+  #grow-with-us{
+    font-size: 80px !important;
+    margin-top: 30px !important;
+    margin-bottom: 40px !important;
+  }
+
+  #grow-with-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+    margin-bottom: 100px !important;
+  }
+
+  #quote-bar{
+    /* border: 2px solid red !important; */
+    width: 1300px !important;
+    padding-left: -400px !important;
+  }
+
+  #get-quote-btn{
+    width: 400px !important;
+  }
+
+  #web-url,
+  #email-input,
+  #get-quote-btn{
+    font-size: 30px !important;
+  }
+
+  #web-url,
+  #email-input{
+    width: 400px !important;
+    padding: 30px 0 !important;
+  }
+
+  #our-portfolio{
+    font-size: 30px !important;
+    margin-bottom: 30px !important;
+  }
+
+  #see-our-recent{
+    font-size: 70px !important;
+    width: 1200px !important;
+  }
+
+  #see-our-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+    margin-bottom: 200px !important;
+  }
+
+  #project2,
+  #project4{
+    display: none !important;
+  }
+
+  .projects{
+    transform: scale(1.6) !important;
+  }
+
+  #news-section{
+    /* border: 2px solid red !important; */
+    margin-top: 200px !important;
+  }
+
+
+  #recent-news{
+    font-size: 30px !important;
+  }
+
+  #check-our{
+    font-size: 70px !important;
+    margin-bottom: 50px !important;
+  }
+
+  #check-our-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+  }
+
+  #news-section-left-right{
+    flex-direction: column !important;
+  }
+
+  #news-section-left{
+    /* border: 2px solid blue !important; */
+    width: 1320px !important;
+    margin-left: 90px !important;
+    height: 400px !important;
+    margin-bottom: 1500px !important;
+    border-radius: 23px 23px 0 0 !important;
+    box-shadow: 0 10px 10px rgba(133, 133, 133, 0.1) !important;
+
+  }
+
+  #bg-img{
+    border-radius: 12px 12px 0 0 !important;
+  }
+
+  #news-section-left-bottom{
+    margin-top: -10px !important;
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    /* border: 2px solid blue !important; */
+    border-radius: 0 0 52px 52px !important;
+    box-shadow: 0 10px 25px 10px rgba(133, 133, 133, 0.1) !important;
+
+  }
+
+  #blog-seo{
+    font-size: 30px !important;
+    padding: 20px 25px !important;
+  }
+
+  #blog-date{
+    position: relative;
+    left: 500px !important;
+    top: 1px !important;
+    font-size: 35px !important;
+  }
+
+  #blog-lorem1{
+    font-size: 40px !important;
+    margin-top: 60px !important;
+  }
+
+  #blog-lorem2{
+    font-size: 33px !important;
+    margin-top: 50px !important;
+    margin-bottom: 70px !important;
+  }
+
+  #author-img{
+    width: 100px !important;
+  }
+
+  #author-name{
+    font-size: 35px !important;
+    margin-left: 40px !important;
+  }
+
+  #discover-more{
+    padding: 20px 30px !important;
+    width: 400px !important;
+    font-size: 40px !important;
+    border-radius: 40px !important;
+    border-width: 2px !important;
+  }
+
+  .news-section-right{
+    /* border: 2px solid red !important; */
+    margin-left: 50px !important;
+    width: 1350px !important;
+    margin-top: -200px !important;
+  }
+
+  .news-section-right-dabba{
+    width: 100% !important;
+  }
+
+  .news-section-right-content{
+    padding-top: 40px !important;
+  }
+
+  .right-news-seo{
+    font-size: 30px !important;
+    padding: 15px 20px !important;
+  }
+
+  .right-date{
+    position: relative;
+    font-size: 30px !important;
+    left: 280px !important;
+  }
+
+  .right-lorem1{
+    font-size: 40px !important;
+  }
+
+  .right-lorem2{
+    font-size: 30px !important;
+  }
+
+  #contact-us-section{
+    /* border: 2px solid red !important; */
+  }
+
+  #contact-icon{
+    display: none !important;
+  }
+
+  #contact-us{
+    font-size: 30px !important;
+  }
+
+  #get-in-touch{
+    font-size: 70px !important;
+  }
+
+  #get-in-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+  }
+
+  #contact-form{
+    position: relative;
+    flex-direction: column;
+  }
+
+  #map{
+    margin-left: 80px !important;
+    margin-top: 100px !important;
+    width: 1150px !important;
+    height: 1100px !important;
+    border-radius: 25px !important;
+  }
+
+  #contact-details-cards{
+    flex-direction: column;
+  }
+
+  .contact-box{
+    width: 1100px !important;
+    margin-left: 40px !important;
+    border-radius: 43px !important;
+    padding: 50px 0 !important;
+    box-shadow: 0 0 20px rgba(12, 12, 12, 0.1) !important;
+    margin-bottom: 50px !important;
+    
+  }
+
+  .contact-box img{
+    width: 110px !important;
+  }
+
+
+  #contact-numb,
+  #contact-email,
+  #location{
+    font-size: 35px !important;
+  } 
+
+  #input-section{
+    /* border: 2px solid red !important; */
+    width: 1050px !important;
+    margin-left: 80px !important;
+  }
+
+  #input-left-right{
+    flex-direction: column !important;
+  }
+
+  input{
+    width: 100% !important;
+  }
+
+  #name,
+  #email,
+  #subject,
+  textarea{
+    font-size: 30px !important;
+    padding: 20px 30px !important;
+    border-radius: 33px !important;
+  }
+
+  #input-right{
+    /* border: 2px solid red; */
+  }
+
+  #textarea{
+    /* border: 2px solid red !important; */
+    max-width: 1050px !important;
+    width: 1050px !important;
+    margin-left: 0 !important;
+  }
+
+  #send-message-now{
+    font-size: 30px !important;
+    width: 1120px !important;
+    margin-top: 25px !important;
+    padding: 25px 0 !important;
+    border-width: 2px !important;
+    border-radius: 43px !important;
+  }
+
+  #top-right-img{
+    position: relative !important;
+    top: 0 !important;
+  }
+  
+  #copyright-section p{
+    font-size: 30px !important;
+  }
+}
+
+/* Mobile L */
+@media screen and (min-width: 376px) and (max-width: 426px) {
+  .contact-us-bar{
+    /* border: 2px solid red !important; */
+    width: 1570px !important;
+  }
+
+  #email1{
+    /* border: 2px solid red !important; */
+    width: 700px !important;
+    font-size: 45px !important;
+    margin-left: -30px !important;
+  }
+
+  #contact-number{
+    /* border: 2px solid red; */
+    left: 710px !important;
+    font-size: 45px !important;
+    width: 600px !important;
+    top: -70px !important;
+  }
+
+  #contact-us-bar-right-section{
+    /* border: 2px solid red !important; */
+    top: 100px !important;
+    left: 1100px !important;
+    width: 400px !important;
+  }
+
+  #contact-us-bar-right-section button{
+    /* border: 2px solid red !important; */
+    transform: scale(2.2) !important;
+    margin-right: 50px !important;
+  }
+
+  #logo{
+    width: 500px !important;
+    margin-left: 100px !important;
+  }
+
+  #free-quote{
+    display: none !important;
+  }
+
+  #navbar-container{
+    /* border: 2px solid red !important; */
+    padding: 80px 100px !important;
+  }
+
+  #navbar li{
+    font-size: 32px !important;
+    margin-top: 10px;
+  }
+
+  #navbar{
+    display: none !important;
+  }
+
+  #hamburger-menu{
+    display: block !important;
+    position: absolute;
+    right: 200px !important;
+    top: 80px !important;
+  }
+
+  #hamburger-menu-icon{
+    display: block;
+    width: 120px !important;
+    filter: invert(100%);
+    cursor: pointer;
+  }
+
+  #hamburger-navbar{
+    /* border: 2px solid red !important; */
+    margin-top: 280px !important;
+    width: 1548px !important;
+    padding-top: 80px !important;
+    background-color: rgb(245, 245, 245);
+    display: none;
+  }
+
+  #hamburger-navbar ul{
+    list-style: none;
+  }
+
+  #hamburger-navbar ul a{
+    text-decoration: none !important;
+    text-align: center;
+    font-size: 60px !important;
+  }
+
+  #hamburger-navbar ul li{
+    margin-bottom: 90px !important;
+    color: black;
+    border-bottom: 1px solid black;
+    padding-bottom: 80px !important;
+  }
+
+  #close-btn-icon{
+    width: 120px !important;
+    filter: invert(100%);
+    margin-left: 5px !important;
+    margin-top: -5px !important;
+    display: none;
+    cursor: pointer;
+  }
+
+  #home{
+    flex-direction: column;
+    padding-top: 500px !important;
+  }
+
+  #home-left-section{
+    /* border: 2px solid red; */
+    width: 1400px !important;
+    text-align: center;
+    padding-top: 150px !important;
+  }
+
+  #digital-media-agency{
+    font-size: 70px !important;
+    margin-bottom: 40px !important;
+  }
+
+  #we-boost{
+    font-size: 180px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #this-template{
+    /* border: 1px solid red; */
+    width: 1200px !important;
+    margin-top: 40px !important;
+    margin-left: 80px;
+    font-size: 60px !important;
+    text-align: justify;
+    margin-bottom: 70px !important;
+  }
+
+  #free-quote2{
+    font-size: 82px !important;
+    padding: 35px 80px !important;
+    margin-top: 30px !important;
+    border-width: 3px !important;
+    border-radius: 80px !important;
+  }
+
+  #home-img{
+    width: 1400px !important;
+    margin-left: 40px !important;
+    margin-top: 100px !important;
+  }
+
+  #home-bg-img1{
+    height: 2400px !important;
+  }
+
+  #home-bg-img2{
+    display: none !important;
+  }
+
+  #about{
+    flex-direction: column-reverse;
+  }
+
+  #about-right-section{
+    /* border: 2px solid red !important; */
+    width: 1350px !important;
+    padding-left: 80px !important;
+  }
+
+  #about-us{
+    font-size: 55px !important;
+    margin-bottom: 40px !important;
+  }
+
+  #who-is-digimedia{
+    font-size: 75px !important;
+    margin-top: 20px !important;
+    margin-bottom: 30px !important;
+    font-size: 125px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #who-is-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+    margin-bottom: 70px !important;
+    width: 150px !important;
+    border-width: 8px !important;
+  }
+
+  #we-hope-this{
+    /* border: 2px solid red; */
+    width: 1380px !important;
+    font-size: 60px !important;
+    text-align: justify;
+  }
+
+  #range-container{
+    position: relative;
+    /* border: 2px solid red; */
+    width: 300px !important;
+    margin-left: 640px !important;
+    margin-top: 190px !important;
+    flex-direction: column !important;
+    height: 2100px !important;
+  }
+
+  #coding-range1{
+    margin-top: 150px !important;
+  }
+
+  #coding-range1,
+  #photoshop-range2,
+  #animation-range3{
+    transform: scale(3.7) !important;
+    margin-bottom: 600px;
+  }
+
+  #coding-cover{
+    /* border: 1px solid red; */
+    position: absolute !important;
+    left: -220px !important;
+    top: -50px !important;
+    width: 280px !important;
+    height: 100px !important;
+    transform: rotate(-30deg) !important;
+  }
+
+  #photoshop-cover{
+    /* border: 2px solid red !important; */
+    width: 420px !important;
+    height: 100px !important;
+    transform: rotate(-40deg) !important;
+    left: -500px;
+    top: 740px;
+  }
+
+  #animation-cover{
+    /* border: 2px solid red !important; */
+    height: 40px !important;
+    width: 110px !important;
+    left: 70px !important;
+  }
+
+  #about-left-section{
+    margin-top: 250px !important;
+  }
+
+  #about-pic{
+    /* border: 2px solid red !important; */
+    width: 1350px !important;
+    margin-left: 30px !important;
+  }
+
+  #services{
+    /* border: 2px solid red !important; */
+  }
+
+  #services-top{
+    /* border: 2px solid red; */
+    padding-left: 100px !important;
+    width: 1350px !important;
+  }
+
+  #services-top h6{
+    font-size: 55px !important;
+  }
+
+  #our-services{
+    margin-top: 100px !important;
+    /* border: 2px solid red !important; */
+  }
+
+  #what-our-agency{
+    font-size: 125px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #what-our-agency-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #services-bottom{
+    /* border: 2px solid red !important; */
+    width: 1400px !important;
+    margin-left: 170px !important;
+  }
+
+  .cards{
+    /* border: 2px solid red !important; */
+    transform: scale(2) !important;
+    margin-right: 150px !important;
+  }
+
+  #big-card{
+    margin-top: 200px !important;
+    margin-left: 120px !important;
+    box-shadow: 0 0 40px rgba(68, 68, 68, 0.1) !important;
+  }
+
+  #seo-analysis{
+    flex-direction: column !important;
+  }
+
+  #seo-analysis-left{
+    /* border: 2px solid red; */
+    width: 1050px !important;
+    text-align: center;
+  }
+
+  #seo-analysis-and-daily-reports{
+    font-size: 65px !important;
+  }
+
+  #lorem-ipsum{
+    font-size: 50px !important;
+  }
+
+  #seo-analysis-list li{
+    font-size: 50px !important;
+  }
+
+  #lorem-ipsum2{
+    font-size: 50px !important;
+  }
+
+  #seo-analysis-right{
+    /* border: 2px solid red !important; */
+  }
+
+  #seo-analysis-img{
+    /* border: 2px solid red !important; */
+    position: relative;
+    width: 1000px !important;
+    margin-top: 10px !important;
+    margin-bottom: 100px !important;
+    margin-left: 100px !important;
+  }
+
+  #free-quote-section{
+    width: 1570px !important;margin-top: 300px !important;
+    /* border: 2px solid red !important; */
+    padding: 400px 0 !important;
+  }
+
+  #get-your-free-quote{
+    font-size: 50px !important;
+  }
+
+  #grow-with-us{
+    font-size: 120px !important;
+    margin-top: 30px !important;
+    margin-bottom: 60px !important;
+  }
+
+  #grow-with-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+    margin-bottom: 100px !important;
+  }
+
+  #quote-bar{
+    /* border: 2px solid red !important; */
+    position: relative;
+    width: 1300px !important;
+    padding-left: -400px !important;
+    height: 400px !important;
+    padding: 100px 0 100px 0 !important;
+  }
+
+  #web-url{
+    border-bottom: 2px solid gray !important;
+    width: 1200px !important;
+    position: absolute !important;
+    top: 20px !important;
+    left: 300px !important;
+    right: 0 !important;
+    font-size: 60px !important;
+    padding-left: 40px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    padding-right: 60px !important;
+
+  }
+
+  #email-input{
+    /* border: 2px solid red !important; */
+    position: absolute;
+    left: 0 !important;
+    top: 200px !important;
+    width: 1200px !important;
+    font-size: 60px !important;
+    padding-left: 20px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    padding-right: 60px !important;
+  }
+
+  #get-quote-btn{
+    position: absolute !important;
+    top: 360px !important;
+    left: 0 !important;
+    width: 1300px !important;
+    font-size: 60px !important;
+    height: 240px !important;
+    border-radius: 0 0 72px 72px !important;
+
+  }
+
+  #projects-section{
+    /* border: 2px solid red !important; */
+    width: 1480px !important;
+    text-align: center;
+  }
+
+  #portfolio-top-left{
+    /* border: 2px solid red !important; */
+    width: 1540px !important;
+    left: 0 !important;
+  }
+
+  #our-portfolio{
+    font-size: 50px !important;
+    width: 1400px !important;
+    margin-bottom: 30px !important;
+  }
+
+  #see-our-recent{
+    font-size: 140px !important;
+    width: 1400px !important;
+  }
+
+  #see-our-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+    margin-bottom: 200px !important;
+    margin-left: 700px !important;
+  }
+
+  #project2,
+  #project4{
+    display: none !important;
+  }
+
+  #projects-container{
+    /* border: 2px solid blue !important; */
+    width: 1490px !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    margin-top: 650px !important;
+  }
+
+  .projects{
+    /* border: 2px solid red !important; */
+    transform: scale(4.2) !important;
+    margin-left: 650px !important;
+    margin-bottom: 1500px !important;
+  }
+
+  #project5{
+    margin-bottom: 0 !important;
+  }
+
+  #news-section{
+    /* border: 2px solid red !important; */
+    margin-top: 800px !important;
+    width: 1560px !important;
+  }
+
+
+  #recent-news{
+    font-size: 50px !important;
+    margin-bottom: 30px !important;
+  }
+
+  #check-our{
+    font-size: 120px !important;
+    margin-bottom: 50px !important;
+    margin-left: 20px !important;
+  }
+
+  #check-our-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #news-section-left-right{
+    flex-direction: column !important;
+  }
+
+  #news-section-left{
+    /* border: 2px solid blue !important; */
+    width: 1400px !important;
+    margin-left: 90px !important;
+    height: 400px !important;
+    margin-bottom: 1500px !important;
+    border-radius: 23px 23px 0 0 !important;
+    box-shadow: 0 10px 10px rgba(133, 133, 133, 0.1) !important;
+
+  }
+
+  #bg-img{
+    border-radius: 62px 62px 0 0 !important;
+    width: 100% !important;
+  }
+
+  #news-section-left-bottom{
+    margin-top: -10px !important;
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    /* border: 2px solid blue !important; */
+    border-radius: 0 0 52px 52px !important;
+    box-shadow: 0 10px 25px 10px rgba(133, 133, 133, 0.1) !important;
+
+  }
+
+  #blog-seo{
+    font-size: 60px !important;
+    padding: 20px 25px !important;
+  }
+
+  #blog-date{
+    position: relative;
+    left: 300px !important;
+    top: 1px !important;
+    font-size: 55px !important;
+  }
+
+  #blog-lorem1{
+    font-size: 70px !important;
+    margin-top: 60px !important;
+  }
+
+  #blog-lorem2{
+    font-size: 53px !important;
+    margin-top: 50px !important;
+    margin-bottom: 70px !important;
+  }
+
+  #author-img{
+    width: 200px !important;
+  }
+
+  #author-name{
+    font-size: 55px !important;
+    margin-left: 40px !important;
+  }
+
+  #discover-more{
+    padding: 20px 30px !important;
+    width: 400px !important;
+    font-size: 52px !important;
+    border-radius: 40px !important;
+    border-width: 2px !important;
+  }
+
+  .news-section-right{
+    /* border: 2px solid red !important; */
+    margin-left: 50px !important;
+    width: 1430px !important;
+    margin-top: 200px !important;
+  }
+
+  .news-section-right-img img{
+    width: 500px !important;
+  }
+
+  .news-section-right-dabba{
+    width: 100% !important;
+  }
+
+  .news-section-right-content{
+    padding-top: 40px !important;
+    padding-left: 240px !important;
+  }
+
+  .right-news-seo{
+    font-size: 50px !important;
+    padding: 15px 20px !important;
+  }
+
+  .right-date{
+    position: relative;
+    font-size: 40px !important;
+    left: -20px !important;
+  }
+
+  .right-lorem1{
+    font-size: 60px !important;
+  }
+
+  .right-lorem2{
+    font-size: 50px !important;
+  }
+
+  #contact-us-section{
+    position: relative !important;
+    /* border: 2px solid red !important; */
+    width: 1510px !important;
+    margin-left: 30px !important;
+    margin-top: 200px !important;
+  }
+
+  #contact-icon{
+    display: none !important;
+  }
+
+  #contact-us{
+    font-size: 50px !important;
+    margin-bottom: 20px !important;
+  }
+
+  #get-in-touch{
+    font-size: 130px !important;
+  }
+
+  #get-in-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #contact-form{
+    /* border: 2px solid red !important; */
+    position: relative;
+    flex-direction: column;
+  }
+
+  #map{
+    margin-left: 80px !important;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+    width: 1150px !important;
+    height: 1900px !important;
+    border-radius: 25px !important;
+  }
+
+  #contact-form-right{
+    /* border: 4px solid red !important; */
+    width: 1200px !important;
+    margin-left: 50px !important;
+  }
+
+  #contact-details-cards{
+    flex-direction: column;
+    /* border: 2px solid blue !important; */
+    width: 800px !important;
+  }
+
+  .contact-box{
+    /* border: 2px solid red !important; */
+    width: 900px !important;
+    margin-left: 40px !important;
+    border-radius: 43px !important;
+    padding: 50px 0 !important;
+    box-shadow: 0 0 20px rgba(12, 12, 12, 0.1) !important;
+    margin-bottom: 50px !important;
+    
+  }
+
+  .contact-box img{
+    width: 210px !important;
+  }
+
+
+  #contact-numb,
+  #contact-email,
+  #location{
+    font-size: 55px !important;
+    /* border: 2px solid red !important; */
+  } 
+
+  #input-section{
+    /* border: 2px solid orange !important; */
+    width: 1050px !important;
+    margin-left: 0 !important;
+  }
+
+  #input-left-right{
+    flex-direction: column !important;
+  }
+
+  input{
+    width: 100% !important;
+  }
+
+  #name,
+  #email,
+  #subject,
+  textarea{
+    font-size: 70px !important;
+    padding: 20px 30px !important;
+    border-radius: 33px !important;
+  }
+
+  #input-right{
+    /* border: 2px solid red; */
+  }
+
+  #textarea{
+    /* border: 2px solid red !important; */
+    max-width: 1050px !important;
+    width: 1050px !important;
+    margin-left: 0 !important;
+  }
+
+  #send-message-now{
+    font-size: 70px !important;
+    width: 1120px !important;
+    margin-top: 25px !important;
+    padding: 25px 0 !important;
+    border-width: 2px !important;
+    border-radius: 43px !important;
+  }
+
+  #top-right-img{
+    top: -2800px !important;
+    left: -150px !important;
+    /* border: 5px solid black !important; */
+    width: 1495px !important;
+    height: 200px !important;
+  }
+
+  #bottom-right-img{
+    /* border: 5px solid black !important; */
+    bottom: -100px !important;
+    left: -160px !important;
+    width: 1510px !important;
+    height: 300px !important;
+  }
+
+  #copyright-section{
+    width: 1575px !important;
+    margin-top: 200px !important;
+  }
+  
+  #copyright-section p{
+    font-size: 50px !important;
+  }
+}
+
+/* Mobile M */
+@media screen and (min-width: 321px) and (max-width: 376px) {
+  .contact-us-bar{
+    /* border: 2px solid red !important; */
+    width: 1570px !important;
+  }
+
+  #email1{
+    /* border: 2px solid red !important; */
+    width: 700px !important;
+    font-size: 45px !important;
+    margin-left: -30px !important;
+  }
+
+  #contact-number{
+    /* border: 2px solid red; */
+    left: 710px !important;
+    font-size: 45px !important;
+    width: 600px !important;
+    top: -70px !important;
+  }
+
+  #contact-us-bar-right-section{
+    /* border: 2px solid red !important; */
+    top: 100px !important;
+    left: 1100px !important;
+    width: 400px !important;
+  }
+
+  #contact-us-bar-right-section button{
+    /* border: 2px solid red !important; */
+    transform: scale(2.2) !important;
+    margin-right: 50px !important;
+  }
+
+  #logo{
+    width: 500px !important;
+    margin-left: 100px !important;
+  }
+
+  #free-quote{
+    display: none !important;
+  }
+
+  #navbar-container{
+    /* border: 2px solid red !important; */
+    padding: 80px 100px !important;
+  }
+
+  #navbar li{
+    font-size: 32px !important;
+    margin-top: 10px;
+  }
+
+  #navbar{
+    display: none !important;
+  }
+
+  #hamburger-menu{
+    display: block !important;
+    position: absolute;
+    right: 200px !important;
+    top: 80px !important;
+  }
+
+  #hamburger-menu-icon{
+    display: block;
+    width: 120px !important;
+    filter: invert(100%);
+    cursor: pointer;
+  }
+
+  #hamburger-navbar{
+    /* border: 2px solid red !important; */
+    margin-top: 280px !important;
+    width: 1548px !important;
+    padding-top: 80px !important;
+    background-color: rgb(245, 245, 245);
+    display: none;
+  }
+
+  #hamburger-navbar ul{
+    list-style: none;
+  }
+
+  #hamburger-navbar ul a{
+    text-decoration: none !important;
+    text-align: center;
+    font-size: 60px !important;
+  }
+
+  #hamburger-navbar ul li{
+    margin-bottom: 90px !important;
+    color: black;
+    border-bottom: 1px solid black;
+    padding-bottom: 80px !important;
+  }
+
+  #close-btn-icon{
+    width: 120px !important;
+    filter: invert(100%);
+    margin-left: 5px !important;
+    margin-top: -5px !important;
+    display: none;
+    cursor: pointer;
+  }
+
+  #home{
+    flex-direction: column;
+    padding-top: 500px !important;
+  }
+
+  #home-left-section{
+    /* border: 2px solid red; */
+    width: 1400px !important;
+    text-align: center;
+    padding-top: 150px !important;
+  }
+
+  #digital-media-agency{
+    font-size: 70px !important;
+    margin-bottom: 40px !important;
+  }
+
+  #we-boost{
+    font-size: 180px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #this-template{
+    /* border: 1px solid red; */
+    width: 1200px !important;
+    margin-top: 40px !important;
+    margin-left: 80px;
+    font-size: 60px !important;
+    text-align: justify;
+    margin-bottom: 70px !important;
+  }
+
+  #free-quote2{
+    font-size: 82px !important;
+    padding: 35px 80px !important;
+    margin-top: 30px !important;
+    border-width: 3px !important;
+    border-radius: 80px !important;
+  }
+
+  #home-img{
+    width: 1400px !important;
+    margin-left: 40px !important;
+    margin-top: 100px !important;
+  }
+
+  #home-bg-img1{
+    height: 2400px !important;
+  }
+
+  #home-bg-img2{
+    display: none !important;
+  }
+
+  #about{
+    flex-direction: column-reverse;
+  }
+
+  #about-right-section{
+    /* border: 2px solid red !important; */
+    width: 1350px !important;
+    padding-left: 80px !important;
+  }
+
+  #about-us{
+    font-size: 55px !important;
+    margin-bottom: 40px !important;
+  }
+
+  #who-is-digimedia{
+    font-size: 75px !important;
+    margin-top: 20px !important;
+    margin-bottom: 30px !important;
+    font-size: 125px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #who-is-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+    margin-bottom: 70px !important;
+    width: 150px !important;
+    border-width: 8px !important;
+  }
+
+  #we-hope-this{
+    /* border: 2px solid red; */
+    width: 1380px !important;
+    font-size: 60px !important;
+    text-align: justify;
+  }
+
+  #range-container{
+    position: relative;
+    /* border: 2px solid red; */
+    width: 300px !important;
+    margin-left: 640px !important;
+    margin-top: 190px !important;
+    flex-direction: column !important;
+    height: 2100px !important;
+  }
+
+  #coding-range1{
+    margin-top: 150px !important;
+  }
+
+  #coding-range1,
+  #photoshop-range2,
+  #animation-range3{
+    transform: scale(3.7) !important;
+    margin-bottom: 600px;
+  }
+
+  #coding-cover{
+    /* border: 1px solid red; */
+    position: absolute !important;
+    left: -220px !important;
+    top: -50px !important;
+    width: 280px !important;
+    height: 100px !important;
+    transform: rotate(-30deg) !important;
+  }
+
+  #photoshop-cover{
+    /* border: 2px solid red !important; */
+    width: 420px !important;
+    height: 100px !important;
+    transform: rotate(-40deg) !important;
+    left: -500px;
+    top: 740px;
+  }
+
+  #animation-cover{
+    /* border: 2px solid red !important; */
+    height: 40px !important;
+    width: 110px !important;
+    left: 70px !important;
+  }
+
+  #about-left-section{
+    margin-top: 250px !important;
+  }
+
+  #about-pic{
+    /* border: 2px solid red !important; */
+    width: 1350px !important;
+    margin-left: 30px !important;
+  }
+
+  #services{
+    /* border: 2px solid red !important; */
+  }
+
+  #services-top{
+    /* border: 2px solid red; */
+    padding-left: 100px !important;
+    width: 1350px !important;
+  }
+
+  #services-top h6{
+    font-size: 55px !important;
+  }
+
+  #our-services{
+    margin-top: 100px !important;
+    /* border: 2px solid red !important; */
+  }
+
+  #what-our-agency{
+    font-size: 125px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #what-our-agency-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #services-bottom{
+    /* border: 2px solid red !important; */
+    width: 1400px !important;
+    margin-left: 170px !important;
+  }
+
+  .cards{
+    /* border: 2px solid red !important; */
+    transform: scale(2) !important;
+    margin-right: 150px !important;
+  }
+
+  #big-card{
+    margin-top: 200px !important;
+    margin-left: 120px !important;
+    box-shadow: 0 0 40px rgba(68, 68, 68, 0.1) !important;
+  }
+
+  #seo-analysis{
+    flex-direction: column !important;
+  }
+
+  #seo-analysis-left{
+    /* border: 2px solid red; */
+    width: 1050px !important;
+    text-align: center;
+  }
+
+  #seo-analysis-and-daily-reports{
+    font-size: 65px !important;
+  }
+
+  #lorem-ipsum{
+    font-size: 50px !important;
+  }
+
+  #seo-analysis-list li{
+    font-size: 50px !important;
+  }
+
+  #lorem-ipsum2{
+    font-size: 50px !important;
+  }
+
+  #seo-analysis-right{
+    /* border: 2px solid red !important; */
+  }
+
+  #seo-analysis-img{
+    /* border: 2px solid red !important; */
+    position: relative;
+    width: 1000px !important;
+    margin-top: 10px !important;
+    margin-bottom: 100px !important;
+    margin-left: 100px !important;
+  }
+
+  #free-quote-section{
+    width: 1570px !important;margin-top: 300px !important;
+    /* border: 2px solid red !important; */
+    padding: 400px 0 !important;
+  }
+
+  #get-your-free-quote{
+    font-size: 50px !important;
+  }
+
+  #grow-with-us{
+    font-size: 120px !important;
+    margin-top: 30px !important;
+    margin-bottom: 60px !important;
+  }
+
+  #grow-with-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+    margin-bottom: 100px !important;
+  }
+
+  #quote-bar{
+    /* border: 2px solid red !important; */
+    position: relative;
+    width: 1300px !important;
+    padding-left: -400px !important;
+    height: 400px !important;
+    padding: 100px 0 100px 0 !important;
+  }
+
+  #web-url{
+    border-bottom: 2px solid gray !important;
+    width: 1200px !important;
+    position: absolute !important;
+    top: 20px !important;
+    left: 300px !important;
+    right: 0 !important;
+    font-size: 60px !important;
+    padding-left: 40px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    padding-right: 60px !important;
+
+  }
+
+  #email-input{
+    /* border: 2px solid red !important; */
+    position: absolute;
+    left: 0 !important;
+    top: 200px !important;
+    width: 1200px !important;
+    font-size: 60px !important;
+    padding-left: 20px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    padding-right: 60px !important;
+  }
+
+  #get-quote-btn{
+    position: absolute !important;
+    top: 360px !important;
+    left: 0 !important;
+    width: 1300px !important;
+    font-size: 60px !important;
+    height: 240px !important;
+    border-radius: 0 0 72px 72px !important;
+
+  }
+
+  #projects-section{
+    /* border: 2px solid red !important; */
+    width: 1480px !important;
+    text-align: center;
+  }
+
+  #portfolio-top-left{
+    /* border: 2px solid red !important; */
+    width: 1540px !important;
+    left: 0 !important;
+  }
+
+  #our-portfolio{
+    font-size: 50px !important;
+    width: 1400px !important;
+    margin-bottom: 30px !important;
+  }
+
+  #see-our-recent{
+    font-size: 140px !important;
+    width: 1400px !important;
+  }
+
+  #see-our-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+    margin-bottom: 200px !important;
+    margin-left: 700px !important;
+  }
+
+  #project2,
+  #project4{
+    display: none !important;
+  }
+
+  #projects-container{
+    /* border: 2px solid blue !important; */
+    width: 1490px !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    margin-top: 650px !important;
+  }
+
+  .projects{
+    /* border: 2px solid red !important; */
+    transform: scale(4.2) !important;
+    margin-left: 650px !important;
+    margin-bottom: 1500px !important;
+  }
+
+  #project5{
+    margin-bottom: 0 !important;
+  }
+
+  #news-section{
+    border: 2px solid red !important;
+    margin-top: 800px !important;
+    width: 1560px !important;
+  }
+
+
+  #recent-news{
+    font-size: 50px !important;
+    margin-bottom: 30px !important;
+  }
+
+  #check-our{
+    font-size: 120px !important;
+    margin-bottom: 50px !important;
+    margin-left: 20px !important;
+  }
+
+  #check-our-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #news-section-left-right{
+    flex-direction: column !important;
+  }
+
+  #news-section-left{
+    border: 2px solid blue !important;
+    width: 1400px !important;
+    margin-left: 50px !important;
+    height: 400px !important;
+    margin-bottom: 1500px !important;
+    border-radius: 23px 23px 0 0 !important;
+    box-shadow: 0 10px 10px rgba(133, 133, 133, 0.1) !important;
+
+  }
+
+  #bg-img{
+    border-radius: 62px 62px 0 0 !important;
+    width: 100% !important;
+  }
+
+  #news-section-left-bottom{
+    margin-top: -10px !important;
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    /* border: 2px solid blue !important; */
+    border-radius: 0 0 52px 52px !important;
+    box-shadow: 0 10px 25px 10px rgba(133, 133, 133, 0.1) !important;
+
+  }
+
+  #blog-seo{
+    font-size: 60px !important;
+    padding: 20px 25px !important;
+  }
+
+  #blog-date{
+    position: relative;
+    left: 300px !important;
+    top: 1px !important;
+    font-size: 55px !important;
+  }
+
+  #blog-lorem1{
+    font-size: 70px !important;
+    margin-top: 60px !important;
+  }
+
+  #blog-lorem2{
+    font-size: 53px !important;
+    margin-top: 50px !important;
+    margin-bottom: 70px !important;
+  }
+
+  #author-img{
+    width: 200px !important;
+  }
+
+  #author-name{
+    font-size: 55px !important;
+    margin-left: 40px !important;
+  }
+
+  #discover-more{
+    padding: 20px 30px !important;
+    width: 400px !important;
+    font-size: 52px !important;
+    border-radius: 40px !important;
+    border-width: 2px !important;
+  }
+
+  .news-section-right{
+    /* border: 2px solid red !important; */
+    margin-left: 10px !important;
+    width: 1430px !important;
+    margin-top: 300px !important;
+  }
+
+  .news-section-right-img img{
+    width: 500px !important;
+  }
+
+  .news-section-right-dabba{
+    width: 100% !important;
+  }
+
+  .news-section-right-content{
+    padding-top: 40px !important;
+    padding-left: 240px !important;
+  }
+
+  .right-news-seo{
+    font-size: 50px !important;
+    padding: 15px 20px !important;
+  }
+
+  .right-date{
+    position: relative;
+    font-size: 40px !important;
+    left: -20px !important;
+  }
+
+  .right-lorem1{
+    font-size: 60px !important;
+  }
+
+  .right-lorem2{
+    font-size: 50px !important;
+  }
+
+  #contact-us-section{
+    position: relative !important;
+    /* border: 2px solid red !important; */
+    width: 1510px !important;
+    margin-left: 30px !important;
+    margin-top: 200px !important;
+  }
+
+  #contact-icon{
+    display: none !important;
+  }
+
+  #contact-us{
+    font-size: 50px !important;
+    margin-bottom: 20px !important;
+  }
+
+  #get-in-touch{
+    font-size: 130px !important;
+  }
+
+  #get-in-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #contact-form{
+    /* border: 2px solid red !important; */
+    position: relative;
+    flex-direction: column;
+  }
+
+  #map{
+    margin-left: 80px !important;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+    width: 1150px !important;
+    height: 1900px !important;
+    border-radius: 25px !important;
+  }
+
+  #contact-form-right{
+    /* border: 4px solid red !important; */
+    width: 1200px !important;
+    margin-left: 50px !important;
+  }
+
+  #contact-details-cards{
+    flex-direction: column;
+    /* border: 2px solid blue !important; */
+    width: 800px !important;
+  }
+
+  .contact-box{
+    /* border: 2px solid red !important; */
+    width: 900px !important;
+    margin-left: 40px !important;
+    border-radius: 43px !important;
+    padding: 50px 0 !important;
+    box-shadow: 0 0 20px rgba(12, 12, 12, 0.1) !important;
+    margin-bottom: 50px !important;
+    
+  }
+
+  .contact-box img{
+    width: 210px !important;
+  }
+
+
+  #contact-numb,
+  #contact-email,
+  #location{
+    font-size: 55px !important;
+    /* border: 2px solid red !important; */
+  } 
+
+  #input-section{
+    /* border: 2px solid orange !important; */
+    width: 1050px !important;
+    margin-left: 0 !important;
+  }
+
+  #input-left-right{
+    flex-direction: column !important;
+  }
+
+  input{
+    width: 100% !important;
+  }
+
+  #name,
+  #email,
+  #subject,
+  textarea{
+    font-size: 70px !important;
+    padding: 20px 30px !important;
+    border-radius: 33px !important;
+  }
+
+  #input-right{
+    /* border: 2px solid red; */
+  }
+
+  #textarea{
+    /* border: 2px solid red !important; */
+    max-width: 1050px !important;
+    width: 1050px !important;
+    margin-left: 0 !important;
+  }
+
+  #send-message-now{
+    font-size: 70px !important;
+    width: 1120px !important;
+    margin-top: 25px !important;
+    padding: 25px 0 !important;
+    border-width: 2px !important;
+    border-radius: 43px !important;
+  }
+
+  #top-right-img{
+    top: -2800px !important;
+    left: -150px !important;
+    /* border: 5px solid black !important; */
+    width: 1495px !important;
+    height: 200px !important;
+  }
+
+  #bottom-right-img{
+    /* border: 5px solid black !important; */
+    bottom: -100px !important;
+    left: -160px !important;
+    width: 1510px !important;
+    height: 300px !important;
+  }
+
+  #copyright-section{
+    width: 1575px !important;
+    margin-top: 200px !important;
+  }
+  
+  #copyright-section p{
+    font-size: 50px !important;
+  }
+}
+
+/* Mobile S */
+@media screen and (max-width: 320px) {
+  .contact-us-bar{
+    /* border: 2px solid red !important; */
+    width: 1308px !important;
+    height: 400px !important;
+  }
+
+  #email1{
+    /* border: 2px solid red !important; */
+    width: 800px !important;
+    font-size: 55px !important;
+    margin-left: 150px !important;
+  }
+
+  #contact-number{
+    /* border: 2px solid red; */
+    left: 120px !important;
+    font-size: 55px !important;
+    width: 600px !important;
+    top: 60px !important;
+  }
+
+  #contact-us-bar-right-section{
+    /* border: 2px solid red !important; */
+    top: 260px !important;
+    left: 700px !important;
+    width: 500px !important;
+  }
+
+  #contact-us-bar-right-section button{
+    /* border: 2px solid red !important; */
+    transform: scale(2.4) !important;
+    margin-right: 80px !important;
+  }
+
+  #logo{
+    width: 500px !important;
+    margin-left: 100px !important;
+  }
+
+  #free-quote{
+    display: none !important;
+  }
+
+  #navbar-container{
+    /* border: 2px solid red !important; */
+    padding: 80px 100px !important;
+  }
+
+  #navbar li{
+    font-size: 32px !important;
+    margin-top: 10px;
+  }
+
+  #navbar{
+    display: none !important;
+  }
+
+  #hamburger-menu{
+    display: block !important;
+    position: absolute;
+    right: 200px !important;
+    top: 80px !important;
+  }
+
+  #hamburger-menu-icon{
+    display: block;
+    width: 120px !important;
+    filter: invert(100%);
+    cursor: pointer;
+    margin-left: -100px !important;
+    /* border: 10px solid red !important; */
+  }
+
+  #hamburger-navbar{
+    /* border: 2px solid red !important; */
+    margin-top: 280px !important;
+    width: 1300px !important;
+    padding-top: 80px !important;
+    background-color: rgb(245, 245, 245);
+    display: none;
+  }
+
+  #hamburger-navbar ul{
+    list-style: none;
+  }
+
+  #hamburger-navbar ul a{
+    text-decoration: none !important;
+    text-align: center;
+    font-size: 60px !important;
+  }
+
+  #hamburger-navbar ul li{
+    margin-bottom: 90px !important;
+    color: black;
+    border-bottom: 1px solid black;
+    padding-bottom: 80px !important;
+  }
+
+  #close-btn-icon{
+    width: 120px !important;
+    filter: invert(100%);
+    margin-left: -105px !important;
+    margin-top: -5px !important;
+    display: none;
+    cursor: pointer;
+  }
+
+  #home{
+    flex-direction: column;
+    padding-top: 500px !important;
+  }
+
+  #home-left-section{
+    /* border: 2px solid red; */
+    width: 1150px !important;
+    text-align: center;
+    padding-top: 150px !important;
+  }
+
+  #digital-media-agency{
+    font-size: 70px !important;
+    margin-bottom: 40px !important;
+  }
+
+  #we-boost{
+    font-size: 180px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #this-template{
+    /* border: 1px solid red; */
+    width: 1000px !important;
+    margin-top: 40px !important;
+    margin-left: 40px;
+    font-size: 60px !important;
+    text-align: justify;
+    margin-bottom: 70px !important;
+  }
+
+  #free-quote2{
+    font-size: 82px !important;
+    padding: 35px 80px !important;
+    margin-top: 30px !important;
+    border-width: 3px !important;
+    border-radius: 80px !important;
+  }
+
+  #home-img{
+    width: 1200px !important;
+    margin-left: 20px !important;
+    margin-top: 100px !important;
+  }
+
+  #home-bg-img1{
+    height: 2400px !important;
+  }
+
+  #home-bg-img2{
+    display: none !important;
+  }
+
+  #about{
+    flex-direction: column-reverse;
+  }
+
+  #about-right-section{
+    /* border: 2px solid red !important; */
+    width: 1350px !important;
+    padding-left: 80px !important;
+  }
+
+  #about-us{
+    font-size: 55px !important;
+    margin-bottom: 40px !important;
+  }
+
+  #who-is-digimedia{
+    font-size: 75px !important;
+    margin-top: 20px !important;
+    margin-bottom: 30px !important;
+    font-size: 125px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #who-is-hr{
+    border-width: 6px !important;
+    width: 100px !important;
+    margin-bottom: 70px !important;
+    width: 150px !important;
+    border-width: 8px !important;
+  }
+
+  #we-hope-this{
+    /* border: 2px solid red; */
+    width: 1100px !important;
+    font-size: 60px !important;
+    text-align: justify;
+  }
+
+  #range-container{
+    position: relative;
+    /* border: 2px solid red; */
+    width: 300px !important;
+    margin-left: 480px !important;
+    margin-top: 190px !important;
+    flex-direction: column !important;
+    height: 2100px !important;
+  }
+
+  #coding-range1{
+    margin-top: 150px !important;
+  }
+
+  #coding-range1,
+  #photoshop-range2,
+  #animation-range3{
+    transform: scale(3.7) !important;
+    margin-bottom: 600px;
+  }
+
+  #coding-cover{
+    /* border: 1px solid red; */
+    position: absolute !important;
+    left: -220px !important;
+    top: -50px !important;
+    width: 280px !important;
+    height: 100px !important;
+    transform: rotate(-30deg) !important;
+  }
+
+  #photoshop-cover{
+    /* border: 2px solid red !important; */
+    width: 420px !important;
+    height: 100px !important;
+    transform: rotate(-40deg) !important;
+    left: -500px;
+    top: 740px;
+  }
+
+  #animation-cover{
+    /* border: 2px solid red !important; */
+    height: 40px !important;
+    width: 110px !important;
+    left: 70px !important;
+  }
+
+  #about-left-section{
+    margin-top: 250px !important;
+  }
+
+  #about-pic{
+    /* border: 2px solid red !important; */
+    width: 1200px !important;
+    margin-left: -40px !important;
+  }
+
+  #services{
+    /* border: 2px solid red !important; */
+  }
+
+  #services-top{
+    /* border: 2px solid red; */
+    padding-left: 100px !important;
+    width: 1150px !important;
+  }
+
+  #services-top h6{
+    font-size: 55px !important;
+  }
+
+  #our-services{
+    margin-top: 100px !important;
+    /* border: 2px solid red !important; */
+  }
+
+  #what-our-agency{
+    font-size: 125px !important;
+    margin-bottom: 80px !important;
+  }
+
+  #what-our-agency-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #services-bottom{
+    /* border: 2px solid red !important; */
+    width: 200px !important;
+    margin-left: 120px !important;
+  }
+
+  .cards{
+    /* border: 2px solid red !important; */
+    transform: scale(1.7) !important;
+    margin-right: 150px !important;
+  }
+
+  #big-card{
+    width: 1180px !important;
+    margin-top: 200px !important;
+    margin-left: 50px !important;
+    box-shadow: 0 0 40px rgba(68, 68, 68, 0.1) !important;
+  }
+
+  #seo-analysis{
+    flex-direction: column !important;
+    margin-left: -40px !important;
+    margin-bottom: 50px !important;
+  }
+
+  #seo-analysis-left{
+    /* border: 2px solid red; */
+    width: 1050px !important;
+    text-align: center;
+  }
+
+  #seo-analysis-and-daily-reports{
+    font-size: 65px !important;
+    margin-bottom: 100px !important;
+  }
+
+  #lorem-ipsum{
+    font-size: 50px !important;
+    margin-bottom: 100px !important;
+
+  }
+
+  #seo-analysis-list li{
+    font-size: 50px !important;
+  }
+
+  #lorem-ipsum2{
+    font-size: 50px !important;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+  }
+
+  #seo-analysis-right{
+    /* border: 2px solid red !important; */
+  }
+
+  #seo-analysis-img{
+    /* border: 2px solid red !important; */
+    position: relative;
+    width: 1000px !important;
+    margin-top: 10px !important;
+    margin-bottom: 100px !important;
+    margin-left: 50px !important;
+  }
+
+  #free-quote-section{
+    width: 1310px !important;margin-top: 300px !important;
+    /* border: 2px solid red !important; */
+    padding: 400px 0 !important;
+  }
+
+  #get-your-free-quote{
+    font-size: 50px !important;
+  }
+
+  #grow-with-us{
+    font-size: 120px !important;
+    margin-top: 30px !important;
+    margin-bottom: 60px !important;
+  }
+
+  #grow-with-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+    margin-bottom: 100px !important;
+  }
+
+  #quote-bar{
+    /* border: 2px solid red !important; */
+    position: relative;
+    width: 1225px !important;
+    padding-left: -400px !important;
+    height: 400px !important;
+    padding: 100px 0 100px 0 !important;
+    margin-left: 60px !important;
+  }
+
+  #web-url{
+    border-bottom: 2px solid gray !important;
+    width: 1100px !important;
+    position: absolute !important;
+    top: 20px !important;
+    left: 300px !important;
+    right: 0 !important;
+    font-size: 60px !important;
+    padding-left: 40px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    padding-right: 60px !important;
+
+  }
+
+  #email-input{
+    /* border: 2px solid red !important; */
+    position: absolute;
+    left: 0 !important;
+    top: 200px !important;
+    width: 1100px !important;
+    font-size: 60px !important;
+    padding-left: 20px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    padding-right: 60px !important;
+  }
+
+  #get-quote-btn{
+    position: absolute !important;
+    top: 360px !important;
+    left: 0 !important;
+    width: 1225px !important;
+    font-size: 60px !important;
+    height: 240px !important;
+    border-radius: 0 0 72px 72px !important;
+
+  }
+
+  #projects-section{
+    /* border: 2px solid red !important; */
+    width: 1080px !important;
+    margin-left: -160px !important;
+    text-align: center;
+  }
+
+  #portfolio-top-left{
+    /* border: 2px solid red !important; */
+    width: 1540px !important;
+    left: 0 !important;
+  }
+
+  #our-portfolio{
+    font-size: 50px !important;
+    width: 1400px !important;
+    margin-bottom: 30px !important;
+  }
+
+  #see-our-recent{
+    font-size: 140px !important;
+    width: 1400px !important;
+  }
+
+  #see-our-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+    margin-bottom: 200px !important;
+    margin-left: 650px !important;
+  }
+
+  #project2,
+  #project4{
+    display: none !important;
+  }
+
+  #projects-container{
+    /* border: 2px solid blue !important; */
+    width: 1490px !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    margin-top: 650px !important;
+    margin-left: -155px !important;
+  }
+
+  .projects{
+    /* border: 2px solid red !important; */
+    transform: scale(4.2) !important;
+    margin-left: 650px !important;
+    margin-bottom: 1500px !important;
+  }
+
+  #project5{
+    margin-bottom: 0 !important;
+  }
+
+  #news-section{
+    /* border: 2px solid red !important; */
+    margin-top: 800px !important;
+    width: 1270px !important;
+  }
+
+
+  #recent-news{
+    font-size: 50px !important;
+    margin-bottom: 30px !important;
+  }
+
+  #check-our{
+    font-size: 120px !important;
+    margin-bottom: 50px !important;
+    margin-left: 20px !important;
+  }
+
+  #check-our-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #news-section-left-right{
+    flex-direction: column !important;
+  }
+
+  #news-section-left{
+    /* border: 2px solid blue !important; */
+    width: 1200px !important;
+    margin-left: 50px !important;
+    height: 400px !important;
+    margin-bottom: 1500px !important;
+    border-radius: 23px 23px 0 0 !important;
+    box-shadow: 0 10px 10px rgba(133, 133, 133, 0.1) !important;
+
+  }
+
+  #bg-img{
+    border-radius: 62px 62px 0 0 !important;
+    width: 100% !important;
+  }
+
+  #news-section-left-bottom{
+    margin-top: -10px !important;
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    /* border: 2px solid blue !important; */
+    border-radius: 0 0 52px 52px !important;
+    box-shadow: 0 10px 25px 10px rgba(133, 133, 133, 0.1) !important;
+
+  }
+
+  #blog-seo{
+    font-size: 60px !important;
+    padding: 20px 25px !important;
+  }
+
+  #blog-date{
+    position: relative;
+    left: 100px !important;
+    top: 1px !important;
+    font-size: 55px !important;
+  }
+
+  #blog-lorem1{
+    font-size: 70px !important;
+    margin-top: 60px !important;
+  }
+
+  #blog-lorem2{
+    font-size: 53px !important;
+    margin-top: 50px !important;
+    margin-bottom: 70px !important;
+  }
+
+  #author-img{
+    width: 200px !important;
+  }
+
+  #author-name{
+    font-size: 55px !important;
+    margin-left: 40px !important;
+  }
+
+  #discover-more{
+    padding: 20px 30px !important;
+    width: 400px !important;
+    font-size: 52px !important;
+    border-radius: 40px !important;
+    border-width: 2px !important;
+    margin-left: -10px !important;
+  }
+
+  .news-section-right{
+    /* border: 2px solid red !important; */
+    margin-left: 10px !important;
+    width: 1430px !important;
+    margin-top: 300px !important;
+  }
+
+  .news-section-right-img img{
+    width: 500px !important;
+    height: 900px !important;
+  }
+
+  .news-section-right-dabba{
+    width: 100% !important;
+  }
+
+  .news-section-right-content{
+    padding-top: 40px !important;
+    padding-left: 240px !important;
+  }
+
+  .right-news-seo{
+    font-size: 50px !important;
+    padding: 15px 20px !important;
+    margin-bottom: 300px !important;
+  }
+
+  .right-date{
+    position: relative;
+    font-size: 45px !important;
+    left: -450px !important;
+    top: 85px !important;
+  }
+
+  .right-lorem1{
+    /* border: 2px solid red !important; */
+    font-size: 68px !important;
+    margin-top: 120px !important;
+    width: 550px !important;
+  }
+
+  .right-lorem2{
+    font-size: 50px !important;
+  }
+
+  #contact-us-section{
+    /* position: relative !important; */
+    /* border: 2px solid red !important; */
+    width: 1210px !important;
+    margin-left: 30px !important;
+    margin-top: 200px !important;
+  }
+
+  #contact-icon{
+    display: none !important;
+  }
+
+  #contact-us{
+    font-size: 50px !important;
+    margin-bottom: 20px !important;
+  }
+
+  #get-in-touch{
+    font-size: 130px !important;
+  }
+
+  #get-in-hr{
+    border-width: 8px !important;
+    width: 150px !important;
+  }
+
+  #contact-form{
+    /* border: 2px solid red !important; */
+    position: relative;
+    flex-direction: column;
+    margin-left: 110px !important;
+    width: 1000px !important;
+  }
+
+  #map{
+    margin-left: 30px !important;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+    width: 950px !important;
+    height: 1900px !important;
+    border-radius: 25px !important;
+  }
+
+  #contact-form-right{
+    /* border: 4px solid red !important; */
+    width: 600px !important;
+    margin-left: 50px !important;
+  }
+
+  #contact-details-cards{
+    flex-direction: column;
+    /* border: 2px solid blue !important; */
+    width: 800px !important;
+  }
+
+  .contact-box{
+    /* border: 2px solid red !important; */
+    width: 900px !important;
+    margin-left: -90px !important;
+    border-radius: 43px !important;
+    padding: 50px 0 !important;
+    box-shadow: 0 0 20px rgba(12, 12, 12, 0.1) !important;
+    margin-bottom: 50px !important;
+    
+  }
+
+  .contact-box img{
+    width: 210px !important;
+  }
+
+
+  #contact-numb,
+  #contact-email,
+  #location{
+    font-size: 55px !important;
+    /* border: 2px solid red !important; */
+  } 
+
+  #input-section{
+    /* border: 2px solid orange !important; */
+    width: 1050px !important;
+    margin-left: 0 !important;
+  }
+
+  #input-left-right{
+    border: 2px solid right !important;
+    width: 850px !important;
+    flex-direction: column !important;
+  }
+
+  input{
+    width: 100% !important;
+  }
+
+  textarea{
+    /* border: 2px solid red !important; */
+  }
+
+  #name,
+  #email,
+  #subject,
+  textarea{
+    font-size: 70px !important;
+    padding: 20px 30px !important;
+    border-radius: 33px !important;
+  }
+
+  #input-right{
+    /* border: 2px solid red; */
+  }
+
+  #textarea{
+    /* border: 2px solid red !important; */
+    max-width: 850px !important;
+    width: 850px !important;
+    margin-left: 0 !important;
+  }
+
+  #send-message-now{
+    font-size: 70px !important;
+    width: 920px !important;
+    margin-top: 25px !important;
+    padding: 25px 0 !important;
+    border-width: 2px !important;
+    border-radius: 43px !important;
+  }
+
+  #top-right-img{
+    top: -2800px !important;
+    left: -150px !important;
+    /* border: 5px solid black !important; */
+    width: 1193px !important;
+    height: 200px !important;
+  }
+
+  #bottom-right-img{
+    /* border: 5px solid black !important; */
+    bottom: -100px !important;
+    left: -160px !important;
+    width: 1210px !important;
+    height: 300px !important;
+  }
+
+  #copyright-section{
+    width: 1310px !important;
+    margin-top: 200px !important;
+  }
+  
+  #copyright-section p{
+    font-size: 40px !important;
+  }
+}
