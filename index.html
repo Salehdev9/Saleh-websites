@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="./digimedia-responsiveness.css">
+  <link rel="stylesheet" href="./digimedia.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digimedia</title>
+</head>
+
+<body>
+  <main>
+    <header>
+
+      <!-- Contact bar -->
+      <div class="contact-us-bar">
+        <div id="contact-us-bar-left-section">
+          <h5 id="email1">&#9993; digimedia@company.com</h5>
+          <h5 id="contact-number">&#9742; 010-020-0340</h5>
+        </div>
+        <div id="contact-us-bar-right-section">
+          <button>
+            <i class="fa fa-facebook-f"></i>
+          </button>
+          <button>
+            <i class="fa fa-behance"></i>
+          </button>
+          <button>
+            <i class="fa fa-twitter"></i>
+          </button>
+          <button>
+            <i class="fa fa-dribbble"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Navbar -->
+      <div id="navbar-container">
+        <div id="logo-container">
+          <img src="./digimedia-logo.png" alt="Digimedia logo" id="logo">
+        </div>
+        <div id="navbar">
+          <ul>
+            <a href="#">
+              <li>
+                Home
+              </li>
+            </a>
+            <a href="#">
+              <li>
+                About
+              </li>
+            </a>
+            <a href="#">
+              <li>
+                Service
+              </li>
+            </a>
+            <a href="#">
+              <li>Projects</li>
+            </a>
+            <a href="#">
+              <li>Blog</li>
+            </a>
+            <a href="#">
+              <li>Contact</li>
+            </a>
+            <a href="#" id="free-quote" onmouseenter="freeQuote()" onmouseleave="freeQuote2()">
+              <li id="free-quote-text">Free Quote</li>
+            </a>
+          </ul>
+        </div>
+        <div id="hamburger-menu">
+          <img src="./icons8-hamburger-menu-50.png" alt="Hamburger menu icon" id="hamburger-menu-icon"
+            onclick="hamburgerIconClick()">
+
+          <img src="./icons8-close-50.png" id="close-btn-icon" alt="Closing button icon" onclick="closeBtnCLick()">
+        </div>
+      </div>
+      
+      <div id="hamburger-navbar">
+        <ul>
+          <a href="#">
+            <li>
+              Home
+            </li>
+          </a>
+          <a href="#">
+            <li>
+              About
+            </li>
+          </a>
+          <a href="#">
+            <li>
+              Service
+            </li>
+          </a>
+          <a href="#">
+            <li>Projects</li>
+          </a>
+          <a href="#">
+            <li>Blog</li>
+          </a>
+          <a href="#">
+            <li>Contact</li>
+          </a>
+        </ul>
+      </div>
+    </header>
+    
+
+    <!-- Main content of the website starts here -->
+
+    <!-- Home Section -->
+    <section id="home">
+      <div id="home-left-section">
+        <h6 id="digital-media-agency">
+          DIGITAL MEDIA AGENCY
+        </h6>
+
+        <h1 id="we-boost">
+          We Boost Your Website Traffic
+        </h1>
+
+        <p id="this-template">
+          This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are
+          not allowed to redistribute the template ZIP file on any other template website. Thank you.
+        </p>
+
+        <button id="free-quote2">
+          Free Quote
+        </button>
+
+        <img id="home-bg-img1" src="./home-left-design.jpg" alt="Background design picture">
+        <img id="home-bg-img2" src="./home-right-design.jpg" alt="Background design picture">
+      </div>
+
+      <div id="home-right-section">
+        <img src="./home-pic.png" alt="SEO graphic image" id="home-img">
+      </div>
+    </section>
+
+
+    <!-- About Section -->
+    <section id="about">
+      <div id="about-left-section">
+        <img id="about-pic" src="./about-pic.png" alt="Graphics image">
+      </div>
+
+      <div id="about-right-section">
+        <h6 id="about-us">
+          ABOUT US
+        </h6>
+        <h2 id="who-is-digimedia">
+          Who Is DigiMedia <span style="color: #726ae3;">Agency</span>
+        </h2>
+        <hr style="border: none; border-top: 3px solid #726ae3; width: 70px; margin-left: 0" id="who-is-hr">
+        <p id="we-hope-this">
+          We hope this DigiMedia template is useful for your work. You can use this template for any purpose. You may
+          <span style="color: #0a58ca;cursor: pointer;">contribute a little amount</span> via PayPal to <span
+            style="color: #0a58ca;cursor: pointer;">support TemplateMo</span> in creating new templates regularly.
+        </p>
+
+        <div id="range-container">
+          <div id="coding-range1">
+            <h5 id="coding90">90%</h5>
+            <p id="coding-text">Coding</p>
+          </div>
+          <span id="coding-cover"></span>
+
+          <div id="photoshop-range2">
+            <h5 id="photoshop80">80%</h5>
+            <p id="photoshop-text">Photoshop</p>
+          </div>
+          <span id="photoshop-cover"></span>
+
+
+          <div id="animation-range3">
+            <h5 id="animation80">80%</h5>
+            <p id="animation-text">Animation</p>
+            <span id="animation-cover"></span>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+      <div id="services-top">
+        <h6 id="our-services">
+          OUR SERVICES
+        </h6>
+        <h2 id="what-our-agency">
+          What Our Agency <span style="color: #726ae3;">Provides</span>
+        </h2>
+        <hr style="border: none; border-top: 3px solid #726ae3; width: 70px;" id="what-our-agency-hr">
+      </div>
+      <div id="services-bottom">
+        <div class="cards" id="apartments" onclick="apartmentsFunction()">
+          <img src="./apartments.png" alt="Apartments icon">
+          <h4>Apartments</h4>
+        </div>
+
+        <div class="cards" id="food-and-life" onclick="foodAndLifeFunction()">
+          <img src="./service-icon-02.png" alt="Food icon">
+          <h4>Food & Life</h4>
+        </div>
+
+        <div class="cards" id="cars" onclick="carsFunction()">
+          <img src="./service-icon-03.png" alt="Cars icon">
+          <h4>Cars</h4>
+        </div>
+
+        <div class="cards" id="shopping" onclick="shoppingFunction()">
+          <img src="./service-icon-02.png" alt="Shopping icon">
+          <h4>Shopping</h4>
+        </div>
+
+        <div class="cards" id="traveling" onclick="travelingFunction()">
+          <img src="./apartments.png" alt="Apartments icon">
+          <h4>Traveling</h4>
+        </div>
+      </div>
+
+      <div id="big-card">
+        <div id="seo-analysis">
+          <div id="seo-analysis-left">
+            <h4 id="seo-analysis-and-daily-reports">
+              SEO Analysis & Daily Reports
+            </h4>
+            <p id="lorem-ipsum">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedr do eiusmod deis tempor incididunt ut labore
+              et dolore kengan darwin doerski token. dover lipsum lorem and the others.
+            </p>
+
+            <ul id="seo-analysis-list">
+              <li>Optimized Template</li>
+              <li>Data Info</li>
+              <li>SEO Analysis</li>
+              <li>Data Info</li>
+              <li>SEO Analysis</li>
+              <li>Optimized Template</li>
+            </ul>
+
+            <p id="lorem-ipsum2">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedr do eiusmod deis tempor incididunt.
+            </p>
+          </div>
+          <div id="seo-analysis-right">
+            <img src="./seo-analysis-img.jpg" alt="SEO analysis graphics image" id="seo-analysis-img">
+          </div>
+        </div>
+      </div>
+
+      <!-- Quote Section -->
+
+      <div id="free-quote-section">
+        <h6 id="get-your-free-quote">
+          GET YOUR FREE QUOTE
+        </h6>
+        <h2 id="grow-with-us">
+          Grow With Us Now
+        </h2>
+        <hr style="border: none; border-top: 3px solid white; width: 70px;margin-bottom: 60px;" id="grow-with-hr">
+
+        <div id="quote-bar">
+          <input type="text" placeholder="Your website URL..." id="web-url" required>
+          <input type="email" placeholder="Email Address..." id="email-input" required>
+          <input type="submit" value="Get Quote Now" id="get-quote-btn">
+        </div>
+      </div>
+
+      <img src="./services-left-dec.jpg" id="services-left-img">
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects-section">
+
+      <img src="./portfolio-left-dec.jpg" id="portfolio-top-left">
+
+
+      <h6 id="our-portfolio">OUR PORTFOLIO</h6>
+      <h2 id="see-our-recent">See Our Recent <span style="color: #726ae3;">Projects</span></h2>
+      <hr style="border: none; border-top: 3px solid #726ae3; width: 70px; margin-left: 0;" id="see-our-hr">
+
+    </section>
+
+    <div id="projects-container" style="position: relative;">
+      <div class="projects" id="project1" onmouseover="projectHover1()" onmouseleave="projectOut1()">
+        <div class="projects-top">
+          <img src="./portfolio-01.jpg" alt="Website's screenshot">
+        </div>
+        <div class="projects-bottom">
+          <h4 id="website-builder1" class="website-builder">
+            Website Builder
+          </h4>
+          <p id="marketing1" class="marketing">
+            Marketing
+          </p>
+        </div>
+      </div>
+
+
+      <div class="projects" id="project2" onmouseover="projectHover2()" onmouseleave="projectOut2()">
+        <div class="projects-top">
+          <img src="./portfolio-02.jpg" alt="Website's screenshot">
+        </div>
+        <div class="projects-bottom">
+          <h4 id="website-builder2" class="website-builder">
+            Website Builder
+          </h4>
+          <p id="marketing2" class="marketing">
+            Marketing
+          </p>
+        </div>
+      </div>
+
+      <div class="projects" id="project3" onmouseover="projectHover3()" onmouseleave="projectOut3()">
+        <div class="projects-top">
+          <img src="./portfolio-03.jpg" alt="Website's screenshot">
+        </div>
+        <div class="projects-bottom">
+          <h4 id="website-builder3" class="website-builder">
+            Website Builder
+          </h4>
+          <p id="marketing3" class="marketing">
+            Marketing
+          </p>
+        </div>
+      </div>
+
+      <div class="projects" id="project4" onmouseover="projectHover4()" onmouseleave="projectOut4()">
+        <div class="projects-top">
+          <img src="./portfolio-04.jpg" alt="Website's screenshot">
+        </div>
+        <div class="projects-bottom">
+          <h4 id="website-builder4" class="website-builder">
+            Website Builder
+          </h4>
+          <p id="marketing4" class="marketing">
+            Marketing
+          </p>
+        </div>
+      </div>
+
+      <div class="projects" id="project5" onmouseover="projectHover5()" onmouseleave="projectOut5()">
+        <div class="projects-top">
+          <img src="./portfolio-02.jpg" alt="Website's screenshot">
+        </div>
+        <div class="projects-bottom">
+          <h4 id="website-builder5" class="website-builder">
+            Website Builder
+          </h4>
+          <p id="marketing5" class="marketing">
+            Marketing
+          </p>
+        </div>
+      </div>
+      <img src="./portfolio-right-dec.jpg" id="portfolio-bottom-right">
+
+    </div>
+
+
+    <!-- News Section -->
+    <section id="news-section">
+      <h6 id="recent-news">
+        RECENT NEWS
+      </h6>
+      <h2 id="check-our">
+        Check Our <span style="color: #726ae3;">Blog Posts</span>
+      </h2>
+      <hr style="border: none; border-top: 3px solid #726ae3; width: 70px;margin-bottom: 60px;" id="check-our-hr">
+    </section>
+
+    <div id="news-section-left-right">
+
+      <div id="news-section-left">
+        <div id="news-section-left-top">
+          <img src="./blog-post-01.jpg" id="bg-img" alt="Background Image">
+        </div>
+        <div id="news-section-left-bottom">
+          <p id="blog-seo">
+            SEO Analysis
+          </p>
+
+          <p id="blog-date">
+            03 August 2021
+          </p>
+
+          <h4 id="blog-lorem1">
+            Lorem Ipsum Dolor Sit Amet, Consectetur Adelore Eiusmod Tempor Incididunt
+          </h4>
+
+          <p id="blog-lorem2">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers itii eiumod deis tempor incididunt ut
+            labore.
+          </p>
+
+          <div id="blog-writer-profile">
+            <img src="./author-post.jpg" id="author-img" alt="Author image">
+
+            <p id="author-name">
+              By: Andrea Mentuzi
+            </p>
+
+            <button id="discover-more">
+              Discover More
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="news-section-right">
+
+        <div class="news-section-right-dabba">
+          <div class="news-section-right-img">
+            <img src="blog-post-02.jpg" alt="Blog picture">
+          </div>
+          <div class="news-section-right-content">
+            <p class="right-news-seo">
+              SEO Analysis
+            </p>
+
+            <p class="right-date">
+              24 September 2021
+            </p>
+
+            <h4 class="right-lorem1">
+              Lorem Ipsum Dolor Sit Amei Eiusmod Tempor
+            </h4>
+
+            <p class="right-lorem2">
+              Lorem ipsum dolor sit amet, cocteturi adipiscing eliterski.
+            </p>
+          </div>
+        </div>
+
+        <div class="news-section-right-dabba">
+          <div class="news-section-right-img">
+            <img src="blog-post-03.jpg" alt="Blog picture">
+          </div>
+          <div class="news-section-right-content">
+            <p class="right-news-seo">
+              SEO Analysis
+            </p>
+
+            <p class="right-date">
+              24 September 2021
+            </p>
+
+            <h4 class="right-lorem1">
+              Lorem Ipsum Dolor Sit Amei Eiusmod Tempor
+            </h4>
+
+            <p class="right-lorem2">
+              Lorem ipsum dolor sit amet, cocteturi adipiscing eliterski.
+            </p>
+          </div>
+        </div>
+
+        <div class="news-section-right-dabba">
+          <div class="news-section-right-img">
+            <img src="blog-post-04.jpg" alt="Blog picture">
+          </div>
+          <div class="news-section-right-content">
+            <p class="right-news-seo">
+              SEO Analysis
+            </p>
+
+            <p class="right-date">
+              24 September 2021
+            </p>
+
+            <h4 class="right-lorem1">
+              Lorem Ipsum Dolor Sit Amei Eiusmod Tempor
+            </h4>
+
+            <p class="right-lorem2">
+              Lorem ipsum dolor sit amet, cocteturi adipiscing eliterski.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Contact Us Section -->
+    <section id="contact-us-section">
+      <div id="contact-us-top">
+        <h6 id="contact-us">
+          CONTACT US
+        </h6>
+
+        <h2 id="get-in-touch">
+          Get In Touch With Us <span style="color: #726ae3;">Now</span>
+        </h2>
+
+        <hr style="border: none; border-top: 3px solid #726ae3; width: 70px;" id="get-in-hr">
+
+        <img id="contact-icon" src="./contact-dec.png" alt="Contact icon">
+      </div>
+
+      <div id="contact-form">
+        <div id="contact-form-left">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d58756.987128414774!2d-43.385296!3d-23.012325!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bdb695cd967b7%3A0x171cdd035a6a9d84!2sAv.%20L%C3%BAcio%20Costa%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%20Brazil!5e0!3m2!1sen!2sus!4v1721069857157!5m2!1sen!2sus"
+            width="500" height="625" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade" id="map"></iframe>
+        </div>
+        <div id="contact-form-right">
+          <div id="contact-details-cards">
+            <div id="contact-numb-container" class="contact-box">
+              <img src="./phone-icon.png" alt="Phone Icon">
+              <p id="contact-numb">
+                010-020-0340
+              </p>
+            </div>
+            <div id="contact-numb-container2" class="contact-box">
+              <img src="./email-icon.png" alt="Phone Icon">
+              <p id="contact-email">
+                our@email.com
+              </p>
+            </div>
+
+            <div id="location-container" class="contact-box">
+              <img src="./location-icon.png" alt="Location Icon">
+              <p id="location">
+                123 Rio de Janeiro
+              </p>
+            </div>
+          </div>
+
+          <div id="input-section">
+            <div id="input-left-right">
+              <div id="input-left">
+                <input type="text" placeholder="Name" id="name"><br>
+
+                <input type="text" placeholder="Your Email" id="email"><br>
+
+                <input type="text" placeholder="Subject" id="subject">
+              </div>
+              <div id="input-right">
+                <textarea id="textarea" placeholder="Message" rows="10" cols="30px"
+                  style="margin-left: 20px; padding: 10px; border-radius: 23px; border: 1px solid gray;"></textarea>
+              </div>
+            </div>
+
+            <button id="send-message-now">
+              Send Message Now
+            </button>
+
+          </div>
+
+          <img src="./contact-top-right.png" id="top-right-img">
+          <img src="./contact-bottom-right.png" id="bottom-right-img">
+        </div>
+      </div>
+
+    </section>
+
+    <!-- Copyright section -->
+    <div id="copyright-section">
+      <p>
+        Copyright © 2022 DigiMedia Co., Ltd. All Rights Reserved.
+      </p>
+      <p>
+        Design: TemplateMo
+      </p>
+    </div>
+
+  </main>
+  <script src="./digimedia3.js"></script>
+  <script src="./digimedia.js"></script>
+  <script src="./digimedia2.js"></script>
+</body>
+
+</html>
