@@ -162,12 +162,12 @@ body{
   transition: .20s;
 }
 
-#light-dark-mode-container #light-mode:hover{
+#light-mode:hover{
   background-color: black;
   color: white;
 }
 
-#light-dark-mode-container #dark-mode{
+#dark-mode{
   border: 3px solid #d63384;
   color: #d63384;
   font-size: 18px;
@@ -178,7 +178,7 @@ body{
   transition: .20s;
 }
 
-#light-dark-mode-container #dark-mode:hover{
+#dark-mode:hover{
   background-color: #d63384;
   color: white;
 }
