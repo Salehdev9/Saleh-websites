@@ -145,8 +145,8 @@ body{
 /* Home Left Section */
 #light-dark-mode-container{
   position: fixed;
-  right: 100px !important;
-  bottom: 200px !important;
+  right: 150px !important;
+  bottom: 300px !important;
   z-index: 100 !important;
 }
 
