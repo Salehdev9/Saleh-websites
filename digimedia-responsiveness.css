@@ -1,6 +1,6 @@
 @media (prefers-color-scheme: dark){
   #home-bg-img1{
-    display: hidden;
+    display: hidden !important;
   }
 }
 
