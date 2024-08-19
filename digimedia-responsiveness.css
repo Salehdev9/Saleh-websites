@@ -1,3 +1,10 @@
+@media (prefers-color-scheme: dark){
+  #home-bg-img1{
+    display: hidden;
+  }
+}
+
+
 /* Laptop L */
 @media screen and (min-width: 1025px) and (max-width:1440px) {
 
