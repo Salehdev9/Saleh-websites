@@ -342,7 +342,7 @@ body{
   position: absolute;
   height: 50px;
   width: 50px;
-  background-color: white;
+  background-color: transparent;
   transform: rotate(-10deg);
   margin-left: 30px;
   margin-top: -20px;
@@ -375,7 +375,7 @@ body{
   position: absolute;
   height: 50px;
   width: 70px;
-  background-color: white;
+  background-color: transparent;
   transform: rotate(-40deg);
   margin-left: 230px;
   margin-top: -10px;
@@ -408,7 +408,7 @@ body{
   position: absolute;
   height: 50px;
   width: 70px;
-  background-color: white;
+  background-color: transparent;
   transform: rotate(-40deg);
   margin-left: -80px;
   margin-top: -150px;
