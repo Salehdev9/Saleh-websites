@@ -1325,6 +1325,7 @@
     width: 280px !important;
     height: 100px !important;
     transform: rotate(-30deg) !important;
+    background-color: rgba(0,0,0,0.1) !important;
   }
 
   #photoshop-cover{
@@ -1334,6 +1335,7 @@
     transform: rotate(-40deg) !important;
     left: -500px;
     top: 740px;
+    background-color: rgba(0,0,0,0.1) !important;
   }
 
   #animation-cover{
@@ -1341,6 +1343,8 @@
     height: 40px !important;
     width: 110px !important;
     left: 70px !important;
+    background-color: rgba(0,0,0,0.1) !important;
+    
   }
 
   #about-left-section{
@@ -1437,6 +1441,7 @@
     margin-top: 10px !important;
     margin-bottom: 100px !important;
     margin-left: 100px !important;
+    visibility: hidden !important;
   }
 
   #free-quote-section{
@@ -1519,6 +1524,7 @@
     /* border: 2px solid red !important; */
     width: 1540px !important;
     left: 0 !important;
+    visibility: hidden !important;
   }
 
   #our-portfolio{
@@ -1558,6 +1564,11 @@
     margin-left: 650px !important;
     margin-bottom: 1500px !important;
   }
+
+  .projects-bottom{
+    background-color: rgba(0,0,0,0.1);
+  }
+
 
   #project5{
     margin-bottom: 0 !important;
