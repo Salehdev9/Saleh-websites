@@ -31,3 +31,7 @@ function myFunction() {
   }
 }
 
+let email1 = document.getElementById("email1");
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+  email1.innerHTML = "123";
+}
