@@ -158,7 +158,7 @@ function darkMode(){
 
   whoIsDigiMedia.style.color = "white";
 
-  codingCover.style.backgroundColor = "black";
+  codingCover.style.backgroundColor = "rgba(0,0,0,0.1)";
 
   photoshopCover.style.backgroundColor = "black";
 
