@@ -1325,7 +1325,7 @@
     width: 280px !important;
     height: 100px !important;
     transform: rotate(-30deg) !important;
-    background-color: rgba(0,0,0,0.1) !important;
+    background-color: black;
   }
 
   #photoshop-cover{
@@ -1335,7 +1335,7 @@
     transform: rotate(-40deg) !important;
     left: -500px;
     top: 740px;
-    background-color: rgba(0,0,0,0.1) !important;
+    background-color: black;
   }
 
   #animation-cover{
@@ -1343,7 +1343,7 @@
     height: 40px !important;
     width: 110px !important;
     left: 70px !important;
-    background-color: rgba(0,0,0,0.1) !important;
+    background-color: black;
     
   }
 
