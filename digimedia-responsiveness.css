@@ -1251,7 +1251,7 @@
   }
 
   #home-bg-img1{
-    height: 2400px !important;
+    visibility: hidden !important;
   }
 
   #home-bg-img2{
